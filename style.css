@@ -11,10 +11,15 @@ body{
 .inicio{
     background-color: #fff;
     max-width: 736px;
+    margin-inline: auto;
+    margin-block: 64px;
+    padding: 40px;
+    border-radius: 24px;
 }
 
 img{
     width: 100%;
+    border-radius: 12px;
 }
 
 
